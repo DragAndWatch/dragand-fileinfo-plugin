@@ -57,7 +57,7 @@
   },
   "homepage": "https://github.com/DragAndWatch/dragand-fileinfo-plugin#readme",
   "dependencies": {
-    "guessit-wrapper": "DragAndWatch/guessit-wrapper",
+    "guessit-wrapper": "git@github.com:DragAndWatch/guessit-wrapper.git",
     "mkdirp": "^0.5.1",
     "moviedb": "^0.2.3",
     "q": "^1.4.1"
